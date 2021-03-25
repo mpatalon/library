@@ -6,6 +6,7 @@
 - https://herbsutter.com
 - http://igoro.com
 - http://ithare.com
+- https://www.modernescpp.com/index.php
 - https://mropert.github.io
 - https://stackoverflow.blog
 
